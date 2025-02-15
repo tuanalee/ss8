@@ -1,0 +1,45 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.line {
+    width: 50px;
+    height: 3px;
+    background-color: red;
+    margin: 10px auto;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.feature {
+    width: 45%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.icon {
+    font-size: 30px;
+    color: red;
+}
+
+.text-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 14px;
+    color: #666;
+}
